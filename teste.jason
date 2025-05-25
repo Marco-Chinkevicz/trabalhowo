@@ -1,0 +1,31 @@
+{
+  "itens": [
+    {
+      "id": "1",
+      "name": "Hambúrguer Clássico",
+      "description": "Pão, carne artesanal 150g, queijo cheddar, alface, tomate e molho especial.",
+      "price": 25.50,
+      "imageUrl": "https://exemplo.com/imagens/hamburger_classico.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Batata Frita Crocante",
+      "description": "Porção individual de batatas fritas sequinhas e crocantes.",
+      "price": 12.00,
+      "imageUrl": "https://exemplo.com/imagens/batata_frita.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Refrigerante Lata",
+      "description": "Lata de refrigerante 350ml (diversos sabores).",
+      "price": 5.00,
+      "imageUrl": "https://exemplo.com/imagens/refrigerante_lata.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Milkshake de Chocolate",
+      "description": "Delicioso milkshake cremoso sabor chocolate com cobertura.",
+      "price": 18.75,
+      "imageUrl": "https://exemplo.com/imagens/milkshake_chocolate.jpg"
+    }
+  ]
